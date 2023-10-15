@@ -80,6 +80,11 @@ Trends in Data Visualization Techniques and Tools
 
 For the other 100 libs check their site: https://ow.ly/nyOz50PUXVJ
 
+## Data Cleaning and Preparation
+
+- [DataPrep - DataPrep.EDA is the fastest and the easiest EDA tool in Python](https://dataprep.ai/)
+
+
 ## Books
 
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
