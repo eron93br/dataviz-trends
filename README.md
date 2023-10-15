@@ -86,5 +86,6 @@ For the other 100 libs check their site: https://ow.ly/nyOz50PUXVJ
 
 ## Tools
 
+- [PyViz](https://pyviz.org/index.html#)
 - [LIDA - Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 - [Pyvis - a Python library for visualizing networks](https://github.com/WestHealth/pyvis)
